@@ -4,14 +4,15 @@ My Social Networks <br/>
 <a href="www.linkedin.com/in/abbas-musayev-116aaa20a">
   <img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  
-  <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbas-musayev"
-/>
+
   
   <img
   src="https://github-readme-stats.vercel.app/api?username=abbas-musayev&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Abbas+Musayev's+GitHub+Stats&show_icons=true"/>
   
+  
+  <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbas-musayev"
+/>  
   
   
 <!--
