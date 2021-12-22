@@ -8,13 +8,13 @@ My Social Networks
   </a>
 
   
-  <img
+<!--   <img
   src="https://github-readme-stats.vercel.app/api?username=abbas-musayev&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Abbas+Musayev's+GitHub+Stats&show_icons=true"/>
+   -->
   
-  
-  <img
+<!--   <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbas-musayev"
-/>  
+/>   -->
   
   
 <!--
