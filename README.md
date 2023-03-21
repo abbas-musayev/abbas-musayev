@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abbas</h1>
 <h3 align="center">I'm backend developer from Azerbaijan</h3>
 
-- 🌱 I’m currently learning **Liquibase**
+- 🌱 I’m currently learning **Liquibase** and **GraphQL**
 
 - 💬 Ask me about **java, spring**
 
